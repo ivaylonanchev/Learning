@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ivo\\GitHub\\Learning\\Dependency Injection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2703D70-3BDA-45DE-A3E1-7F79F001F881}|Dependency Injection\\Dependency Injection.csproj|d:\\ivo\\github\\learning\\dependency injection\\dependency injection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2703D70-3BDA-45DE-A3E1-7F79F001F881}|Dependency Injection\\Dependency Injection.csproj|solutionrelative:dependency injection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\Learning\\Dependency Injection\\Dependency Injection\\Program.cs",
+              "RelativeDocumentMoniker": "Dependency Injection\\Program.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\Learning\\Dependency Injection\\Dependency Injection\\Program.cs",
+              "RelativeToolTip": "Dependency Injection\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:49:55.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
