@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "D:\\ivo\\GitHub\\Learning\\Dependency Injection\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D2703D70-3BDA-45DE-A3E1-7F79F001F881}|Dependency Injection\\Dependency Injection.csproj|d:\\ivo\\github\\learning\\dependency injection\\dependency injection\\servicelifetimereporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2703D70-3BDA-45DE-A3E1-7F79F001F881}|Dependency Injection\\Dependency Injection.csproj|solutionrelative:dependency injection\\servicelifetimereporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2703D70-3BDA-45DE-A3E1-7F79F001F881}|Dependency Injection\\Dependency Injection.csproj|d:\\ivo\\github\\learning\\dependency injection\\dependency injection\\dependency injection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D2703D70-3BDA-45DE-A3E1-7F79F001F881}|Dependency Injection\\Dependency Injection.csproj|solutionrelative:dependency injection\\dependency injection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2703D70-3BDA-45DE-A3E1-7F79F001F881}|Dependency Injection\\Dependency Injection.csproj|d:\\ivo\\github\\learning\\dependency injection\\dependency injection\\items\\exampletransientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2703D70-3BDA-45DE-A3E1-7F79F001F881}|Dependency Injection\\Dependency Injection.csproj|solutionrelative:dependency injection\\items\\exampletransientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2703D70-3BDA-45DE-A3E1-7F79F001F881}|Dependency Injection\\Dependency Injection.csproj|d:\\ivo\\github\\learning\\dependency injection\\dependency injection\\items\\examplescopedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2703D70-3BDA-45DE-A3E1-7F79F001F881}|Dependency Injection\\Dependency Injection.csproj|solutionrelative:dependency injection\\items\\examplescopedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2703D70-3BDA-45DE-A3E1-7F79F001F881}|Dependency Injection\\Dependency Injection.csproj|d:\\ivo\\github\\learning\\dependency injection\\dependency injection\\items\\examplesingletonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2703D70-3BDA-45DE-A3E1-7F79F001F881}|Dependency Injection\\Dependency Injection.csproj|solutionrelative:dependency injection\\items\\examplesingletonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2703D70-3BDA-45DE-A3E1-7F79F001F881}|Dependency Injection\\Dependency Injection.csproj|d:\\ivo\\github\\learning\\dependency injection\\dependency injection\\interfaces\\iexamplesingletonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2703D70-3BDA-45DE-A3E1-7F79F001F881}|Dependency Injection\\Dependency Injection.csproj|solutionrelative:dependency injection\\interfaces\\iexamplesingletonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2703D70-3BDA-45DE-A3E1-7F79F001F881}|Dependency Injection\\Dependency Injection.csproj|d:\\ivo\\github\\learning\\dependency injection\\dependency injection\\interfaces\\iexamplescopedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2703D70-3BDA-45DE-A3E1-7F79F001F881}|Dependency Injection\\Dependency Injection.csproj|solutionrelative:dependency injection\\interfaces\\iexamplescopedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2703D70-3BDA-45DE-A3E1-7F79F001F881}|Dependency Injection\\Dependency Injection.csproj|d:\\ivo\\github\\learning\\dependency injection\\dependency injection\\interfaces\\iexampletransientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2703D70-3BDA-45DE-A3E1-7F79F001F881}|Dependency Injection\\Dependency Injection.csproj|solutionrelative:dependency injection\\interfaces\\iexampletransientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2703D70-3BDA-45DE-A3E1-7F79F001F881}|Dependency Injection\\Dependency Injection.csproj|d:\\ivo\\github\\learning\\dependency injection\\dependency injection\\interfaces\\ireportservicelifetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2703D70-3BDA-45DE-A3E1-7F79F001F881}|Dependency Injection\\Dependency Injection.csproj|solutionrelative:dependency injection\\interfaces\\ireportservicelifetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D2703D70-3BDA-45DE-A3E1-7F79F001F881}|Dependency Injection\\Dependency Injection.csproj|d:\\ivo\\github\\learning\\dependency injection\\dependency injection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2703D70-3BDA-45DE-A3E1-7F79F001F881}|Dependency Injection\\Dependency Injection.csproj|solutionrelative:dependency injection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +55,123 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ServiceLifetimeReporter.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\Learning\\Dependency Injection\\Dependency Injection\\ServiceLifetimeReporter.cs",
+              "RelativeDocumentMoniker": "Dependency Injection\\ServiceLifetimeReporter.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\Learning\\Dependency Injection\\Dependency Injection\\ServiceLifetimeReporter.cs",
+              "RelativeToolTip": "Dependency Injection\\ServiceLifetimeReporter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:06:35.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExampleSingletonService.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\Learning\\Dependency Injection\\Dependency Injection\\items\\ExampleSingletonService.cs",
+              "RelativeDocumentMoniker": "Dependency Injection\\items\\ExampleSingletonService.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\Learning\\Dependency Injection\\Dependency Injection\\items\\ExampleSingletonService.cs",
+              "RelativeToolTip": "Dependency Injection\\items\\ExampleSingletonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:04:49.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExampleScopedService.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\Learning\\Dependency Injection\\Dependency Injection\\items\\ExampleScopedService.cs",
+              "RelativeDocumentMoniker": "Dependency Injection\\items\\ExampleScopedService.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\Learning\\Dependency Injection\\Dependency Injection\\items\\ExampleScopedService.cs",
+              "RelativeToolTip": "Dependency Injection\\items\\ExampleScopedService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:04:28.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExampleTransientService.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\Learning\\Dependency Injection\\Dependency Injection\\items\\ExampleTransientService.cs",
+              "RelativeDocumentMoniker": "Dependency Injection\\items\\ExampleTransientService.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\Learning\\Dependency Injection\\Dependency Injection\\items\\ExampleTransientService.cs",
+              "RelativeToolTip": "Dependency Injection\\items\\ExampleTransientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:03:21.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IExampleSingletonService.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\Learning\\Dependency Injection\\Dependency Injection\\Interfaces\\IExampleSingletonService.cs",
+              "RelativeDocumentMoniker": "Dependency Injection\\Interfaces\\IExampleSingletonService.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\Learning\\Dependency Injection\\Dependency Injection\\Interfaces\\IExampleSingletonService.cs",
+              "RelativeToolTip": "Dependency Injection\\Interfaces\\IExampleSingletonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:02:28.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dependency Injection",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\Learning\\Dependency Injection\\Dependency Injection\\Dependency Injection.csproj",
+              "RelativeDocumentMoniker": "Dependency Injection\\Dependency Injection.csproj",
+              "ToolTip": "D:\\ivo\\GitHub\\Learning\\Dependency Injection\\Dependency Injection\\Dependency Injection.csproj",
+              "RelativeToolTip": "Dependency Injection\\Dependency Injection.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-30T13:52:54.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IExampleScopedService.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\Learning\\Dependency Injection\\Dependency Injection\\Interfaces\\IExampleScopedService.cs",
+              "RelativeDocumentMoniker": "Dependency Injection\\Interfaces\\IExampleScopedService.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\Learning\\Dependency Injection\\Dependency Injection\\Interfaces\\IExampleScopedService.cs",
+              "RelativeToolTip": "Dependency Injection\\Interfaces\\IExampleScopedService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:02:04.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IExampleTransientService.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\Learning\\Dependency Injection\\Dependency Injection\\Interfaces\\IExampleTransientService.cs",
+              "RelativeDocumentMoniker": "Dependency Injection\\Interfaces\\IExampleTransientService.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\Learning\\Dependency Injection\\Dependency Injection\\Interfaces\\IExampleTransientService.cs",
+              "RelativeToolTip": "Dependency Injection\\Interfaces\\IExampleTransientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:00:53.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IReportServiceLifetime.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\Learning\\Dependency Injection\\Dependency Injection\\Interfaces\\IReportServiceLifetime.cs",
+              "RelativeDocumentMoniker": "Dependency Injection\\Interfaces\\IReportServiceLifetime.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\Learning\\Dependency Injection\\Dependency Injection\\Interfaces\\IReportServiceLifetime.cs",
+              "RelativeToolTip": "Dependency Injection\\Interfaces\\IReportServiceLifetime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:59:42.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ivo\\GitHub\\Learning\\Dependency Injection\\Dependency Injection\\Program.cs",
               "RelativeDocumentMoniker": "Dependency Injection\\Program.cs",
@@ -28,6 +181,10 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T13:49:55.859Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
             },
             {
               "$type": "Bookmark",
